@@ -4,7 +4,7 @@ An Alfred workflow for controlling Youtube Music playback in an open Youtube Mus
 
 I built this workflow out of necessity as Google Play music will be retired shortly. I listen to music most of the day at work and this helps immensely. While this workflow was created using Alfred 4, it should also work with Alfred 2 & 3.
 
-The workflow uses the following keywords to control playback in an open Google Play tab:
+The workflow uses the following keywords to control playback in an open Youtube Music tab:
 
 * `ym`: Play/Pause
 * `ym prev`: Previous Song
