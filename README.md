@@ -6,13 +6,13 @@ I built this workflow out of necessity as Google Play music will be retired shor
 
 The workflow uses the following keywords to control playback in an open Google Play tab:
 
-`ym`: Play/Pause
-`ym prev`: Previous Song
-`ym next`: Next Song
-`ym+`: Thumbs Up Song
-`ym-`: Thumbs Down Song
-`ym quit`: Close Youtube Music Tab
-`ym search <search term>`: Search Youtube Music
+* `ym`: Play/Pause
+* `ym prev`: Previous Song
+* `ym next`: Next Song
+* `ym+`: Thumbs Up Song
+* `ym-`: Thumbs Down Song
+* `ym quit`: Close Youtube Music Tab
+* `ym search <search term>`: Search Youtube Music
 
 ![Alfred Workflow Screenshot](screenshot.jpg)
 
