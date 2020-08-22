@@ -4,6 +4,18 @@ An Alfred workflow for controlling Youtube Music playback in an open Youtube Mus
 
 I built this workflow out of necessity as Google Play music will be retired shortly. I listen to music most of the day at work and this helps immensely.
 
+## Hotkey Support
+
+Built-in hotkeys are available for the following actions. After installing the workflow, set the hotkeys to your liking in Alfred.
+
+* Play/Pause
+* Previous Song
+* Next Song
+* Increase Volume
+* Decrease Volume
+
+## Keywords
+
 The workflow uses the following keywords to control playback in an open Youtube Music tab:
 
 * `ym`: Play/Pause
@@ -14,6 +26,8 @@ The workflow uses the following keywords to control playback in an open Youtube 
 * `ym vol <volume percentage>`: Set Youtube Music Volume
 * `ym quit`: Close Youtube Music Tab
 * `ym search <search term>`: Search Youtube Music
+
+
 
 ![Alfred Workflow Screenshot](screenshot.jpg)
 
