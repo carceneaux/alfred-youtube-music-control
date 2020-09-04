@@ -24,10 +24,10 @@ The workflow uses the following keywords to control playback in an open Youtube 
 * `ym+`: Thumbs Up Song
 * `ym-`: Thumbs Down Song
 * `ym vol <volume percentage>`: Set Youtube Music Volume
-* `ym quit`: Close Youtube Music Tab
 * `ym search <search term>`: Search Youtube Music
-
-
+* `ym shuffle`: Shuffle Playlist
+* `ym repeat`: Set Repeat Setting
+* `ym quit`: Close Youtube Music Tab
 
 ![Alfred Workflow Screenshot](screenshot.jpg)
 
