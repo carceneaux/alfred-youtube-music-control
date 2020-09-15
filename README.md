@@ -29,7 +29,7 @@ The workflow uses the following keywords to control playback in an open Youtube 
 * `ym repeat`: Set Repeat Setting
 * `ym quit`: Close Youtube Music Tab
 
-![Alfred Workflow Screenshot](screenshot.jpg)
+![Alfred Workflow Screenshot](screenshot.png)
 
 ## Requirements
 
